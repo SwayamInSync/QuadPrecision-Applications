@@ -1,3 +1,4 @@
 ## Lorenz Simluation
 - `float64` representing high error accumulation over time than `QuadDType`
-![lorenz_720](https://github.com/user-attachments/assets/02054618-d9a2-4cf7-a967-1b19873da1b0)
+![lorenz](https://github.com/user-attachments/assets/7120de00-075c-4d83-9c19-e1d562f8d2ed)
+
